@@ -87,3 +87,4 @@ I’m an AI/ML engineer dedicated to translating raw data into meaningful, scala
 
 
 <br />
+<img src="https://raw.githubusercontent.com/himanshugupta0405/himanshugupta0405/output/snake.svg" alt="Snake animation" />
