@@ -56,7 +56,7 @@ I’m an AI/ML engineer dedicated to translating raw data into meaningful, scala
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/7b/7f/f7/7b7ff7fe7b7d988050a150d85ff233c6.jpg" />
+<img src="https://i.pinimg.com/1200x/0d/b1/24/0db124240d285e822f3dec402644ae03.jpg" />
 </div>  
 
 
