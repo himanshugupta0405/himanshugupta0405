@@ -41,7 +41,7 @@ I’m an AI/ML engineer dedicated to translating raw data into meaningful, scala
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Accountra.AI](https://github.com/)  
+- 🔭 I’m currently working on [Accountra.AI](https://github.com/himanshugupta0405/Accountra.AI)  
   
 
 - 🌱 I’m currently learning Advanced Natural Language Processing   
