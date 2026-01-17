@@ -56,7 +56,7 @@ I’m an AI/ML engineer dedicated to translating raw data into meaningful, scala
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://tenor.com/view/turbo-granny-dandadan-anime-hair-dryer-maneki-neko-gif-2097184744501633485" />
+<img src="https://media.tenor.com/P4u5yT4uO5wAAAAC/dandadan-turbo-granny.gif" width="100%" alt="Turbo Granny Dandadan" />
 </div>  
 
 
